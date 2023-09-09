@@ -10,3 +10,5 @@ We'll try and keep this up to date, so just make sure you have anaconda installe
 Once you've got anaconda, open jupyter notebooks and load the tutorials there.
 When you are actuall doing coding yourself, I would recommend using Visual Studio Code but you can stick with Jupyter Notebooks - I've only recently moved across.
 Once done, then work through the simple plotting tutorial first, then move on to plotcsv.
+
+Just added ExcelPy folder - just folowing tutorial from datacamp. Going to integrate this better this week :)

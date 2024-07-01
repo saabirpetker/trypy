@@ -7,7 +7,7 @@ Have been using python for years to visualise data. Matplotlib is a familiar fri
 
 Did a brute force graphing problem for a mini project in a short timespan but realised I could've done it faster, thus inspiring our second tutorial, **plotcsv**
 
-Saw Excel have a new python integration - worth trying some of that out too. Checkout **Excelpy**
+Saw Excel have a new python integration - worth trying some of that out too. Checkout **Excelpy** - yeah don't do that just yet...
 
 # **Read Before Starting**
 This python tutorial requires you to have the neccessary packages installed...
